@@ -14,4 +14,4 @@ The Abhi Store wants to create an annual sales report for 2025. So that, the own
 - Relation between age and gender based on number of orders.
 - Which Channel is contributing maximum to the sales?
 - Highest selling category? - Percentage of Total Orders delivered
-- Dashboard Interaction <a href= https://github.com/Abhishek22446/Annual_Store_Analysis/blob/main/Screenshot%202026-01-08%20122004.jpg">View Dashboard</a>
+- Dashboard - <a href="https://github.com/Abhishek22446/Annual_Store_Analysis/blob/main/Screenshot%202026-01-08%20122004.jpg">View</a>
