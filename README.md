@@ -1,2 +1,4 @@
-# Annual_Store_Analysis
-I Developed a comprehensive project in Excel, creating multiple dashboards and tables to analysis the data. This process involved several stages including data processing, data cleaning ,data visualization.
+# Abhi's -Store-Data-Analysis (Interactive Dashboard creation using MS Excel)
+## Project Objective
+The Vrinda Store wants to create an annual sales report for 2022. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2024 & 2025.
+
